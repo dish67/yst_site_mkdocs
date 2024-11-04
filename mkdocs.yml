@@ -16,5 +16,5 @@ nav:
 ## Extensions
 markdown_extensions:
   - toc:
-      permalink: true
-      baselevel: 1
+      permalink: true # false
+      baselevel: 1 # 2
