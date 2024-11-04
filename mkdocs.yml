@@ -8,4 +8,13 @@ theme:
   name: readthedocs # mkdocs
 
 ## Architecture
+nav:
+  - Accueil: index.md
+  - Guide:
+    - Pense-bête: pense_bete.md
 
+## Extensions
+markdown_extensions:
+  - toc:
+      permalink: true
+      baselevel: 1
