@@ -1,0 +1,11 @@
+## Préambule
+site_name: mon_site
+site_description: Un site sur quelque chose.
+site_author: mon_nom
+site_favicon: "img/favicon.ico" 
+
+theme: 
+  name: readthedocs # mkdocs
+
+## Architecture
+
